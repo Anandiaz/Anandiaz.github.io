@@ -1,0 +1,29 @@
+.content {
+    display: flex;
+    justify-content: center;
+}
+
+body {
+    bottom: 0;
+    height: 100vh;
+}
+
+footer{
+    left: 0;
+    bottom: 0;
+    right: 0;
+}
+
+
+
+table {
+    width: 100%;
+    border: 1px solid #0f4658;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+td {
+    border: 1px solid #0f4658;
+    padding: 10px;
+}
